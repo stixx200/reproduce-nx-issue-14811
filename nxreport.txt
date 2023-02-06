@@ -1,0 +1,39 @@
+
+ >  NX   Report complete - copy this into the issue template
+
+   Node : 16.19.0
+   OS   : win32 x64
+   npm  : 8.19.3
+   
+   nx : 15.6.3
+   @nrwl/angular : Not Found
+   @nrwl/cypress : Not Found
+   @nrwl/detox : Not Found
+   @nrwl/devkit : 15.6.3
+   @nrwl/esbuild : Not Found
+   @nrwl/eslint-plugin-nx : 15.6.3
+   @nrwl/expo : Not Found
+   @nrwl/express : Not Found
+   @nrwl/jest : 15.6.3
+   @nrwl/js : 15.6.3
+   @nrwl/linter : 15.6.3
+   @nrwl/nest : Not Found
+   @nrwl/next : Not Found
+   @nrwl/node : Not Found
+   @nrwl/nx-cloud : Not Found
+   @nrwl/nx-plugin : Not Found
+   @nrwl/react : Not Found
+   @nrwl/react-native : Not Found
+   @nrwl/rollup : Not Found
+   @nrwl/schematics : Not Found
+   @nrwl/storybook : Not Found
+   @nrwl/web : Not Found
+   @nrwl/webpack : Not Found
+   @nrwl/workspace : 15.6.3
+   @nrwl/vite : Not Found
+   typescript : 4.8.4
+   ---------------------------------------
+   Local workspace plugins:
+   ---------------------------------------
+   Community plugins:
+
